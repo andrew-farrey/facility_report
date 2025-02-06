@@ -1,5 +1,9 @@
 Facility-level data quality report for the NSSP ESSENCE public health surveillance platform.
 
-Currently, there are a few references to Kentucky entities and Kentucky facilities are listed as parameter choices. In future, I will scale this to the national level.
+Currently configured for Kentucky. The theme can be changed to other .Rmd supported bootswatch themes (or one could use CSS).
 
-I picked the "readable" bootswatch theme, but this can be changed to any other bootswatch v3 free theme supported by Rmarkdown (or one could use custom CSS).
+To do:
+- remove references to Kentucky entities
+- source a national facility list (that can be continually updated, preferably?)
+
+
